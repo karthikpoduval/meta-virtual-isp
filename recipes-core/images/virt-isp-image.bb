@@ -6,3 +6,5 @@ IMAGE_INSTALL += " v4l-utils yavta"
 
 IMAGE_INSTALL += " virt-isp-driver" 
 
+IMAGE_INSTALL += " kernel-modules" 
+
